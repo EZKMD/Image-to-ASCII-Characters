@@ -11,6 +11,7 @@ It then writes an ASCII alternative for the brightness level of the pixel into a
 User Actions:
 The user must change the "file_location" variable and "imag" variable in order to transfer their own images.
 Within this project is the media file which contains various images and their ASCII transferred counterparts.
+ Documents here conform to an arbitrary naming convention.
 
 Note:
  - Certain images of lengths greater than ~1050 pixels will break due to text file conventions
@@ -20,4 +21,3 @@ Note:
 Features:
  - TQDM module was used to include a progress bar function.
  - There is no user input, all changes to images and locations are made within code.
- - 
